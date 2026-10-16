@@ -1,0 +1,15 @@
+Copyright (c) 2026 Alejandro Guillermo Enríquez Rodríguez
+Todos los derechos reservados / All Rights Reserved.
+
+Este software, su código fuente, su diseño, su nombre "EcoRecolecta" y los
+materiales que lo acompañan son obra del autor y están protegidos por la Ley
+Federal del Derecho de Autor y los tratados internacionales aplicables.
+
+Queda prohibido copiar, modificar, distribuir, sublicenciar, publicar o usar
+este software, total o parcialmente, con fines comerciales o no comerciales,
+sin autorización previa y por escrito del autor.
+
+El acceso a este repositorio no otorga licencia alguna sobre el software.
+
+Componentes de terceros (Flutter, flutter_map, latlong2, datos de mapa de
+OpenStreetMap contributors) se rigen por sus propias licencias.

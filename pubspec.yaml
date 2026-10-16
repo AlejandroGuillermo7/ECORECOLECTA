@@ -1,0 +1,23 @@
+name: ecorecolecta
+description: EcoRecolecta - Seguimiento de recolección de residuos en Santa Lucía del Camino.
+publish_to: "none"
+version: 0.3.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^8.3.2
+  latlong2: ^0.10.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
